@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm mohammadso</h1>
 <h3>🌟Frontend Developer | React.js & Next.js 🚀
 </h3>
-🛸 Learning everyday.
-🌋 I’m always looking for challenging work oppurtunities ahead.
+<p>Learning everyday.</p>
+<p>I’m always looking for challenging work oppurtunities ahead.</p>
+
 
 - 📫 How to reach me **mohammadsodev@gmail.com**
 
