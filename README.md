@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohammadso</h1>
-<h3>🌟 Creative Frontend Developer | React.js & Next.js 🚀
+<h3>🌟Frontend Developer | React.js & Next.js 🚀
 </h3>
 
 - 📫 How to reach me **mohammadsodev@gmail.com**
