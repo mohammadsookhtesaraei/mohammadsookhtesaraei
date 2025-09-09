@@ -2,8 +2,6 @@
 <h3>🌟 Creative Frontend Developer | React.js & Next.js 🚀
 </h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadsookhtesaraei](https://github.com/mohammadsookhtesaraei)
-
 - 📫 How to reach me **mohammadsodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
