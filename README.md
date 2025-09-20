@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm mohammadso</h1>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&color=7E57C2&lines=Hi+there+👋" />
+</h1>
 <h3>🌟Frontend Developer | React.js & Next.js 🚀
 </h3>
 <p> 🌟Learning everyday.</p>
