@@ -1,5 +1,6 @@
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&color=7E57C2&lines=Hi+there+👋" />
+  <h2>I am mohammadSo</h2>
 </h1>
 <h3>🌟Frontend Developer | React.js & Next.js 🚀
 </h3>
